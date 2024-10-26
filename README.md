@@ -4,4 +4,4 @@
 
 [安装包-Android](https://www.forwardforever.top/files/uni-spring-boot.apk)
 
-[小程序体验版本](https://open.weixin.qq.com/sns/getexpappinfo?appid=wxc28561887cb0a65d&path=pages%2Flogin%2Findex.html&key=&uin=&scene=30&version=63090c11#wechat-redirect)
+[小程序体验版本](https://open.weixin.qq.com/sns/getexpappinfo?appid=wxc28561887cb0a65d&amp;path=pages/login/index.html#wechat-redirect)
