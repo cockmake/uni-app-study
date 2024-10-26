@@ -1,0 +1,52 @@
+{
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^uv-(.*)": "@climblee/uv-ui/components/uv-$1/uv-$1.vue",
+      "^uni-(.*)": "components/uni-$1/uni-$1.vue"
+    }
+  },
+  "pages": [
+    {
+      "path": "pages/login/index",
+      "style": {
+        "navigationBarTitleText": "登录",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/register/index",
+      "style": {
+        "navigationBarTitleText": "注册",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/article-detail/index",
+      "style": {
+        "navigationBarTitleText": "文章详情",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/article-update/index",
+      "style": {
+        "navigationBarTitleText": "文章编辑",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/main/index",
+      "style": {
+        "navigationBarTitleText": "头条",
+        "enablePullDownRefresh": false
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
